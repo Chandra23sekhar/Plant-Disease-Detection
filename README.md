@@ -2,9 +2,9 @@
 It is a flask based web app used to identify plant diseases in an effective manner. It aslo suggests the causes and cure for a particular disease and plant. Interactive feedback response system is also present to interact with the users of the app through email system.
 
 ## Technologies used
-1. Python \
-2. Flask \
-3. HTML, CSS, JS \
+1. Python 
+2. Flask 
+3. HTML, CSS, JS 
 4. Deep Learning
 5. SQLite
 
